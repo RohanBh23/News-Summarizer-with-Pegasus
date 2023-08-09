@@ -7,4 +7,5 @@ Text summarization is one of the most useful applications of Natural Language Pr
 
 Pegasus is a Transformer with a self-supervised pre-training method called Gap-Sentence Generation. In this method, a paragraph is taken and alternate sentences in the paragraph are removed and concatenated. The remaining sentences of the original para, now concatenated as well, are used as inputs, while the removed (concatenated) sentences are used as output in the training process. Basically model is being made to figure out missing sentences.
 
-![image](https://github.com/RohanBh23/News-Summarizer-with-Pegasus/assets/78695257/ba22e2fe-885a-4ef7-800c-f86388096da4)
+![image](https://github.com/RohanBh23/News-Summarizer-with-Pegasus/assets/78695257/1d42d28f-cf1b-4ca5-84c7-a68311118497)
+
