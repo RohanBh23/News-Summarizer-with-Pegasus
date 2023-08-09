@@ -10,3 +10,6 @@ Pegasus is a Transformer with a self-supervised pre-training method called Gap-S
 
 ![image1](https://github.com/RohanBh23/News-Summarizer-with-Pegasus/assets/78695257/3c64f82c-8d38-4a36-99eb-760ce0c33c74)
 
+## Dataset 
+The BBC News Saummaries Dataset was used for this project. This dataset for extractive text summarization has four hundred and seventeen political news articles of BBC from 2004 to 2005 in the News Articles folder. For each articles, five summaries are provided in the Summaries folder. Hind the Dataset here - https://www.kaggle.com/datasets/pariza/bbc-news-summary
+These text files had to be collated into one single csv file before Tokenization and feeding into the model.
